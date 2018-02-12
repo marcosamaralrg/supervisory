@@ -1,2 +1,2 @@
 # supervisory
-scripts e squematic eletronic for supevisory sistem 
+scripts e squematic eletronic for supevisory system 
